@@ -2,7 +2,7 @@
 
 [Essayez moi ici !](https://aeilxs.github.io/pixels_and_physics/)
 
-Analyse d'image en Javascript vanilla et animation de pixels. Le code est facilement réutilisable sur d'autres projets en remplaçant les valeurs des propriétés friction (entre 0 et 1), mouse (au choix !) et ease (entre 0 et 1) et supprimer les listeners dans le constructors !
+Analyse d'image en Javascript vanilla et animation de pixels. Le code est facilement réutilisable sur d'autres projets en remplaçant les valeurs des propriétés friction (entre 0 et 1), mouse (au choix !) et ease (entre 0 et 1) et supprimer les listeners dans les constructors !
 
 ## class Particle
 
